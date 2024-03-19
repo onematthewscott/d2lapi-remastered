@@ -1,0 +1,11 @@
+name: envs
+channels:
+  - defaults
+dependencies:
+  - pytest
+  - pip
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - ipywidgets

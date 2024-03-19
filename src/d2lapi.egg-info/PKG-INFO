@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: d2lapi
+Version: 0.3.0
+Summary: a Python library forcleaning d2l data
+Author: Olivia Qiu
+Author-email: qiuolivi@msu.edu
+Requires-Python: >=3.7
+License-File: LICENSE

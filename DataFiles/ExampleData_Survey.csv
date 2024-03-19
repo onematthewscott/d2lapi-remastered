@@ -1,0 +1,1340 @@
+Section #,Q #,Q Type,Q Title,Q Text,Bonus?,Difficulty,Answer,Answer Match,# Responses
+User 1,,,,,,,,,
+,1,T/F,',Is Michigan State University located in Detroit?,,,True,UnChecked,0
+,1,T/F,',Is Michigan State University located in Detroit?,,,False,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,HongKong,Checked,0
+,2,MC,',What city has the highest life expectancy? ,,,New York,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Shanghai,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Singapore,UnChecked,1
+,3,MC,',Which language has the more native speakers? ,,,English,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Spanish,Checked,1
+,3,MC,',Which language has the more native speakers? ,,,French,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Russian,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1946,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1923,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1886,UnChecked,1
+,4,MC,',What year was the United Nations established? ,,,1945,Checked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Amazon,Checked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Ford,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Uber,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,FedEx,UnChecked,0
+,6,T/F,',An octopus have 3 hearts.,,,True,Checked,1
+,6,T/F,',An octopus have 3 hearts.,,,False,UnChecked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,True,Checked,1
+,7,T/F,',Igneous rocks are produced by volcanoes,,,False,UnChecked,0
+,8,M-S,',Which countries have national language of English,,,United States of America,UnChecked,1
+,8,M-S,',Which countries have national language of English,,,Belgium,Checked,0
+,8,M-S,',Which countries have national language of English,,,Fiji,Checked,0
+,8,M-S,',Which countries have national language of English,,,Russia,UnChecked,0
+,9,M-S,',Which animals have fur,,,cat,Checked,1
+,9,M-S,',Which animals have fur,,,dog,Checked,1
+,9,M-S,',Which animals have fur,,,mole-rat,UnChecked,0
+,9,M-S,',Which animals have fur,,,kangaroo,Checked,1
+,10,WR,',What is your favorite animal and why? (Write 3 sentences max.),,,I think turtles are cool.,,1
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 1,no idea,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 2,no idea,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Tiger,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Frog,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Elephant,
+,13,FIB,',Thomas Edison invented the lightbulb in the year _______ .,,,Answer for blank # 1,1790,
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,4,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,2,1
+,14,ORD,',Order the animals from largest to smallest,,,Dog,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,1,1
+,14,ORD,',Order the animals from largest to smallest,,,Flea,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,4,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Un,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Un,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,A. My birthday is January - March.,Checked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,B. My birthday is April - June.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,C. My birthday is July - September.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,D. My birthday is October - December. ,UnChecked,1
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,A,Checked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,B,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,C,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,D,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Green,Checked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Red,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Pink,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Purple,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,White,Checked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Silver,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Green,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Red,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Pink,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Purple,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,White,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Silver,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Green,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Red,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Pink,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Purple,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,White,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Silver,UnChecked,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Spartan,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Data,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Capstone,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,1,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,5,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,4,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,2,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,3,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,5,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Green,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Maize,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Green,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Maize,1
+,24,MC,',Who is the prime minister of India?,,,Joe Biden,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Narendra Modi,Checked,1
+,24,MC,',Who is the prime minister of India?,,,Pushpa Kamal Dahal,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Xi Jinping,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Florida,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Michigan,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Arizona,Checked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Utah,UnChecked,1
+,26,M-S,',How are America and Britain similar to each other?,,,The drinking age is lower in Britain,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,Many immigrants live in either country,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Both countries mainly use English in day-to-day interaction,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Satire is often used in British humor,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Brunch,UnChecked,1
+,27,MC,',What do you never eat for dinner?,,,Breakfast,Checked,0
+,27,MC,',What do you never eat for dinner?,,,Midnight snack,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Omelet,UnChecked,0
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,True,Checked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,False,UnChecked,0
+User 2,,,,,,,,,
+,1,T/F,',Is Michigan State University located in Detroit?,,,True,UnChecked,0
+,1,T/F,',Is Michigan State University located in Detroit?,,,False,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,HongKong,Checked,0
+,2,MC,',What city has the highest life expectancy? ,,,New York,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Shanghai,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Singapore,UnChecked,1
+,3,MC,',Which language has the more native speakers? ,,,English,UnChecked,1
+,3,MC,',Which language has the more native speakers? ,,,Spanish,Checked,0
+,3,MC,',Which language has the more native speakers? ,,,French,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Russian,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1946,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1923,UnChecked,1
+,4,MC,',What year was the United Nations established? ,,,1886,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1945,Checked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Amazon,Checked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Ford,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Uber,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,FedEx,UnChecked,0
+,6,T/F,',An octopus have 3 hearts.,,,True,Checked,1
+,6,T/F,',An octopus have 3 hearts.,,,False,UnChecked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,True,Checked,1
+,7,T/F,',Igneous rocks are produced by volcanoes,,,False,UnChecked,0
+,8,M-S,',Which countries have national language of English,,,United States of America,UnChecked,1
+,8,M-S,',Which countries have national language of English,,,Belgium,Checked,0
+,8,M-S,',Which countries have national language of English,,,Fiji,Checked,0
+,8,M-S,',Which countries have national language of English,,,Russia,UnChecked,0
+,9,M-S,',Which animals have fur,,,cat,Checked,1
+,9,M-S,',Which animals have fur,,,dog,Checked,1
+,9,M-S,',Which animals have fur,,,mole-rat,UnChecked,0
+,9,M-S,',Which animals have fur,,,kangaroo,Checked,1
+,10,WR,',What is your favorite animal and why? (Write 3 sentences max.),,,My favorite animal is a raccoon because they have thumbs like me,,1
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 1,cat,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 2,dog,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Dog,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Rhino,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Cat,
+,13,FIB,',Thomas Edison invented the lightbulb in the year _______ .,,,Answer for blank # 1,1912,
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,1,1
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,2,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Dog,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,4,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Un,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Un,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,A. My birthday is January - March.,Checked,1
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,B. My birthday is April - June.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,C. My birthday is July - September.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,D. My birthday is October - December. ,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,A,Checked,1
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,B,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,C,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,D,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Green,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Red,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Pink,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Purple,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,White,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Silver,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Green,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Red,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Pink,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Purple,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,White,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Silver,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Green,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Red,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Pink,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Purple,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,White,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Silver,UnChecked,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Spartan,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Data,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Capstone,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,1,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,5,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,4,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,2,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,3,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,5,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Green,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Maize,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Green,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Maize,1
+,24,MC,',Who is the prime minister of India?,,,Joe Biden,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Narendra Modi,Checked,1
+,24,MC,',Who is the prime minister of India?,,,Pushpa Kamal Dahal,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Xi Jinping,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Florida,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Michigan,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Arizona,Checked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Utah,UnChecked,1
+,26,M-S,',How are America and Britain similar to each other?,,,The drinking age is lower in Britain,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,Many immigrants live in either country,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Both countries mainly use English in day-to-day interaction,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Satire is often used in British humor,UnChecked,1
+,27,MC,',What do you never eat for dinner?,,,Brunch,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Breakfast,Checked,0
+,27,MC,',What do you never eat for dinner?,,,Midnight snack,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Omelet,UnChecked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,True,Checked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,False,UnChecked,0
+User 3,,,,,,,,,
+,1,T/F,',Is Michigan State University located in Detroit?,,,True,UnChecked,0
+,1,T/F,',Is Michigan State University located in Detroit?,,,False,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,HongKong,Checked,0
+,2,MC,',What city has the highest life expectancy? ,,,New York,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Shanghai,UnChecked,1
+,2,MC,',What city has the highest life expectancy? ,,,Singapore,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,English,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Spanish,Checked,1
+,3,MC,',Which language has the more native speakers? ,,,French,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Russian,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1946,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1923,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1886,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1945,Checked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Amazon,Checked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Ford,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Uber,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,FedEx,UnChecked,0
+,6,T/F,',An octopus have 3 hearts.,,,True,Checked,1
+,6,T/F,',An octopus have 3 hearts.,,,False,UnChecked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,True,Checked,1
+,7,T/F,',Igneous rocks are produced by volcanoes,,,False,UnChecked,0
+,8,M-S,',Which countries have national language of English,,,United States of America,UnChecked,1
+,8,M-S,',Which countries have national language of English,,,Belgium,Checked,0
+,8,M-S,',Which countries have national language of English,,,Fiji,Checked,0
+,8,M-S,',Which countries have national language of English,,,Russia,UnChecked,0
+,9,M-S,',Which animals have fur,,,cat,Checked,1
+,9,M-S,',Which animals have fur,,,dog,Checked,1
+,9,M-S,',Which animals have fur,,,mole-rat,UnChecked,0
+,9,M-S,',Which animals have fur,,,kangaroo,Checked,1
+,10,WR,',What is your favorite animal and why? (Write 3 sentences max.),,,My favorite animal is a tiger. I like tigers becaue they have awesome colors and are dangerous.,,1
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 1,feline,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 2,canine,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Deer,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Bear,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Cat,
+,13,FIB,',Thomas Edison invented the lightbulb in the year _______ .,,,Answer for blank # 1,1892,
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,1,1
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,2,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Dog,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,4,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Un,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Un,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,A. My birthday is January - March.,Checked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,B. My birthday is April - June.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,C. My birthday is July - September.,UnChecked,1
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,D. My birthday is October - December. ,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,A,Checked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,B,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,C,UnChecked,1
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,D,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Green,Checked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Red,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Pink,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Purple,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,White,Checked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Silver,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Green,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Red,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Pink,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Purple,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,White,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Silver,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Green,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Red,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Pink,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Purple,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,White,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Silver,UnChecked,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Spartan,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Data,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Capstone,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,2,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,5,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,4,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,3,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,1,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,5,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Green,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Maize,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Green,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Maize,1
+,24,MC,',Who is the prime minister of India?,,,Joe Biden,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Narendra Modi,Checked,0
+,24,MC,',Who is the prime minister of India?,,,Pushpa Kamal Dahal,UnChecked,1
+,24,MC,',Who is the prime minister of India?,,,Xi Jinping,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Florida,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Michigan,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Arizona,Checked,1
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Utah,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,The drinking age is lower in Britain,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,Many immigrants live in either country,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Both countries mainly use English in day-to-day interaction,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Satire is often used in British humor,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Brunch,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Breakfast,Checked,0
+,27,MC,',What do you never eat for dinner?,,,Midnight snack,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Omelet,UnChecked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,True,Checked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,False,UnChecked,0
+User 4,,,,,,,,,
+,1,T/F,',Is Michigan State University located in Detroit?,,,True,UnChecked,0
+,1,T/F,',Is Michigan State University located in Detroit?,,,False,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,HongKong,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,New York,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Shanghai,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Singapore,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,English,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Spanish,Checked,1
+,3,MC,',Which language has the more native speakers? ,,,French,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Russian,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1946,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1923,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1886,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1945,Checked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Amazon,Checked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Ford,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Uber,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,FedEx,UnChecked,0
+,6,T/F,',An octopus have 3 hearts.,,,True,Checked,1
+,6,T/F,',An octopus have 3 hearts.,,,False,UnChecked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,True,Checked,1
+,7,T/F,',Igneous rocks are produced by volcanoes,,,False,UnChecked,0
+,8,M-S,',Which countries have national language of English,,,United States of America,UnChecked,1
+,8,M-S,',Which countries have national language of English,,,Belgium,Checked,0
+,8,M-S,',Which countries have national language of English,,,Fiji,Checked,1
+,8,M-S,',Which countries have national language of English,,,Russia,UnChecked,0
+,9,M-S,',Which animals have fur,,,cat,Checked,1
+,9,M-S,',Which animals have fur,,,dog,Checked,1
+,9,M-S,',Which animals have fur,,,mole-rat,UnChecked,0
+,9,M-S,',Which animals have fur,,,kangaroo,Checked,1
+,10,WR,',What is your favorite animal and why? (Write 3 sentences max.),,,"Dogs, they're adorable and come in so many shapes and sizes.",,1
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 1,Felis catus,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 2,Canis lupus familiaris,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Mosquitoes,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Snakes,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Dogs,
+,13,FIB,',Thomas Edison invented the lightbulb in the year _______ .,,,Answer for blank # 1,1879,
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,1,1
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,2,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Dog,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,4,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Un,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Un,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,A. My birthday is January - March.,Checked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,B. My birthday is April - June.,UnChecked,1
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,C. My birthday is July - September.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,D. My birthday is October - December. ,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,A,Checked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,B,UnChecked,1
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,C,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,D,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Green,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Red,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Pink,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Purple,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,White,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Silver,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Green,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Red,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Pink,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Purple,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,White,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Silver,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Green,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Red,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Pink,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Purple,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,White,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Silver,UnChecked,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Capstone,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Capstone,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Data,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Capstone,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,2,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,3,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,5,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,4,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,1,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,5,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Green,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Maize,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Green,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Maize,1
+,24,MC,',Who is the prime minister of India?,,,Joe Biden,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Narendra Modi,Checked,1
+,24,MC,',Who is the prime minister of India?,,,Pushpa Kamal Dahal,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Xi Jinping,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Florida,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Michigan,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Arizona,Checked,1
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Utah,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,The drinking age is lower in Britain,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,Many immigrants live in either country,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Both countries mainly use English in day-to-day interaction,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Satire is often used in British humor,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Brunch,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Breakfast,Checked,0
+,27,MC,',What do you never eat for dinner?,,,Midnight snack,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Omelet,UnChecked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,True,Checked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,False,UnChecked,0
+User 5,,,,,,,,,
+,1,T/F,',Is Michigan State University located in Detroit?,,,True,UnChecked,0
+,1,T/F,',Is Michigan State University located in Detroit?,,,False,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,HongKong,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,New York,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Shanghai,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Singapore,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,English,UnChecked,1
+,3,MC,',Which language has the more native speakers? ,,,Spanish,Checked,0
+,3,MC,',Which language has the more native speakers? ,,,French,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Russian,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1946,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1923,UnChecked,1
+,4,MC,',What year was the United Nations established? ,,,1886,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1945,Checked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Amazon,Checked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Ford,UnChecked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Uber,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,FedEx,UnChecked,0
+,6,T/F,',An octopus have 3 hearts.,,,True,Checked,1
+,6,T/F,',An octopus have 3 hearts.,,,False,UnChecked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,True,Checked,1
+,7,T/F,',Igneous rocks are produced by volcanoes,,,False,UnChecked,0
+,8,M-S,',Which countries have national language of English,,,United States of America,UnChecked,0
+,8,M-S,',Which countries have national language of English,,,Belgium,Checked,0
+,8,M-S,',Which countries have national language of English,,,Fiji,Checked,1
+,8,M-S,',Which countries have national language of English,,,Russia,UnChecked,0
+,9,M-S,',Which animals have fur,,,cat,Checked,1
+,9,M-S,',Which animals have fur,,,dog,Checked,1
+,9,M-S,',Which animals have fur,,,mole-rat,UnChecked,0
+,9,M-S,',Which animals have fur,,,kangaroo,Checked,1
+,10,WR,',What is your favorite animal and why? (Write 3 sentences max.),,,My favorite animal is a golden retriever. They are friendly and energetic.,,1
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 1,Felis catus,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 2,Canis lupus familiaris,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,shark,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,dog,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,bacteria,
+,13,FIB,',Thomas Edison invented the lightbulb in the year _______ .,,,Answer for blank # 1,1880,
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,1,1
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,2,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Dog,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,4,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Un,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Un,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,A. My birthday is January - March.,Checked,1
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,B. My birthday is April - June.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,C. My birthday is July - September.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,D. My birthday is October - December. ,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,A,Checked,1
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,B,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,C,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,D,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Green,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Red,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Pink,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Purple,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,White,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Silver,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Green,Checked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Red,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Pink,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Purple,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,White,Checked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Silver,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Green,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Red,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Pink,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Purple,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,White,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Silver,UnChecked,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Capstone,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Spartan,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Data,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Capstone,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,3,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,4,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,2,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,1,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,5,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Green,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Maize,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Green,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Maize,1
+,24,MC,',Who is the prime minister of India?,,,Joe Biden,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Narendra Modi,Checked,0
+,24,MC,',Who is the prime minister of India?,,,Pushpa Kamal Dahal,UnChecked,1
+,24,MC,',Who is the prime minister of India?,,,Xi Jinping,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Florida,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Michigan,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Arizona,Checked,1
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Utah,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,The drinking age is lower in Britain,UnChecked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Many immigrants live in either country,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Both countries mainly use English in day-to-day interaction,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Satire is often used in British humor,UnChecked,1
+,27,MC,',What do you never eat for dinner?,,,Brunch,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Breakfast,Checked,0
+,27,MC,',What do you never eat for dinner?,,,Midnight snack,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Omelet,UnChecked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,True,Checked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,False,UnChecked,0
+User 6,,,,,,,,,
+,1,T/F,',Is Michigan State University located in Detroit?,,,True,UnChecked,0
+,1,T/F,',Is Michigan State University located in Detroit?,,,False,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,HongKong,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,New York,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Shanghai,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Singapore,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,English,UnChecked,1
+,3,MC,',Which language has the more native speakers? ,,,Spanish,Checked,0
+,3,MC,',Which language has the more native speakers? ,,,French,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Russian,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1946,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1923,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1886,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1945,Checked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Amazon,Checked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Ford,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Uber,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,FedEx,UnChecked,0
+,6,T/F,',An octopus have 3 hearts.,,,True,Checked,1
+,6,T/F,',An octopus have 3 hearts.,,,False,UnChecked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,True,Checked,1
+,7,T/F,',Igneous rocks are produced by volcanoes,,,False,UnChecked,0
+,8,M-S,',Which countries have national language of English,,,United States of America,UnChecked,1
+,8,M-S,',Which countries have national language of English,,,Belgium,Checked,0
+,8,M-S,',Which countries have national language of English,,,Fiji,Checked,0
+,8,M-S,',Which countries have national language of English,,,Russia,UnChecked,0
+,9,M-S,',Which animals have fur,,,cat,Checked,0
+,9,M-S,',Which animals have fur,,,dog,Checked,0
+,9,M-S,',Which animals have fur,,,mole-rat,UnChecked,1
+,9,M-S,',Which animals have fur,,,kangaroo,Checked,0
+,10,WR,',What is your favorite animal and why? (Write 3 sentences max.),,,Alligator,,1
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 1,Catus cutis,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 2,Doggo Lovo,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Bug,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Bug,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Bug,
+,13,FIB,',Thomas Edison invented the lightbulb in the year _______ .,,,Answer for blank # 1,2020,
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,4,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,2,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Dog,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,1,1
+,14,ORD,',Order the animals from largest to smallest,,,Flea,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,4,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Un,1
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,A. My birthday is January - March.,Checked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,B. My birthday is April - June.,UnChecked,1
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,C. My birthday is July - September.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,D. My birthday is October - December. ,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,A,Checked,1
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,B,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,C,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,D,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Green,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Red,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Pink,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Purple,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,White,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Silver,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Green,Checked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Red,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Pink,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Purple,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,White,Checked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Silver,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Green,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Red,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Pink,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Purple,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,White,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Silver,UnChecked,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Capstone,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Capstone,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Data,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Capstone,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,1,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,5,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,4,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,2,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,3,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,5,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Green,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Maize,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Green,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Maize,1
+,24,MC,',Who is the prime minister of India?,,,Joe Biden,UnChecked,1
+,24,MC,',Who is the prime minister of India?,,,Narendra Modi,Checked,0
+,24,MC,',Who is the prime minister of India?,,,Pushpa Kamal Dahal,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Xi Jinping,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Florida,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Michigan,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Arizona,Checked,1
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Utah,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,The drinking age is lower in Britain,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,Many immigrants live in either country,Checked,0
+,26,M-S,',How are America and Britain similar to each other?,,,Both countries mainly use English in day-to-day interaction,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Satire is often used in British humor,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Brunch,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Breakfast,Checked,0
+,27,MC,',What do you never eat for dinner?,,,Midnight snack,UnChecked,1
+,27,MC,',What do you never eat for dinner?,,,Omelet,UnChecked,0
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,True,Checked,0
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,False,UnChecked,1
+User 7,,,,,,,,,
+,1,T/F,',Is Michigan State University located in Detroit?,,,True,UnChecked,0
+,1,T/F,',Is Michigan State University located in Detroit?,,,False,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,HongKong,Checked,0
+,2,MC,',What city has the highest life expectancy? ,,,New York,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Shanghai,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Singapore,UnChecked,1
+,3,MC,',Which language has the more native speakers? ,,,English,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Spanish,Checked,1
+,3,MC,',Which language has the more native speakers? ,,,French,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Russian,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1946,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1923,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1886,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1945,Checked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Amazon,Checked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Ford,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Uber,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,FedEx,UnChecked,0
+,6,T/F,',An octopus have 3 hearts.,,,True,Checked,1
+,6,T/F,',An octopus have 3 hearts.,,,False,UnChecked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,True,Checked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,False,UnChecked,1
+,8,M-S,',Which countries have national language of English,,,United States of America,UnChecked,1
+,8,M-S,',Which countries have national language of English,,,Belgium,Checked,0
+,8,M-S,',Which countries have national language of English,,,Fiji,Checked,1
+,8,M-S,',Which countries have national language of English,,,Russia,UnChecked,0
+,9,M-S,',Which animals have fur,,,cat,Checked,1
+,9,M-S,',Which animals have fur,,,dog,Checked,1
+,9,M-S,',Which animals have fur,,,mole-rat,UnChecked,0
+,9,M-S,',Which animals have fur,,,kangaroo,Checked,1
+,10,WR,',What is your favorite animal and why? (Write 3 sentences max.),,,I really like cats because they are cute and friendly.,,1
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 1,feline domesticus,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 2,canus lupus,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Mosquito,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Horse,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Flea,
+,13,FIB,',Thomas Edison invented the lightbulb in the year _______ .,,,Answer for blank # 1,1897,
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,1,1
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,2,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Dog,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,4,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Un,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Un,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,A. My birthday is January - March.,Checked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,B. My birthday is April - June.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,C. My birthday is July - September.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,D. My birthday is October - December. ,UnChecked,1
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,A,Checked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,B,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,C,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,D,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Green,Checked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Red,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Pink,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Purple,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,White,Checked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Silver,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Green,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Red,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Pink,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Purple,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,White,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Silver,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Green,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Red,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Pink,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Purple,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,White,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Silver,UnChecked,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Spartan,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Data,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Capstone,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,1,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,4,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,3,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,2,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,5,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Green,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Maize,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Green,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Maize,1
+,24,MC,',Who is the prime minister of India?,,,Joe Biden,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Narendra Modi,Checked,1
+,24,MC,',Who is the prime minister of India?,,,Pushpa Kamal Dahal,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Xi Jinping,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Florida,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Michigan,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Arizona,Checked,1
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Utah,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,The drinking age is lower in Britain,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,Many immigrants live in either country,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Both countries mainly use English in day-to-day interaction,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Satire is often used in British humor,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Brunch,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Breakfast,Checked,0
+,27,MC,',What do you never eat for dinner?,,,Midnight snack,UnChecked,1
+,27,MC,',What do you never eat for dinner?,,,Omelet,UnChecked,0
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,True,Checked,0
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,False,UnChecked,1
+User 8,,,,,,,,,
+,1,T/F,',Is Michigan State University located in Detroit?,,,True,UnChecked,0
+,1,T/F,',Is Michigan State University located in Detroit?,,,False,Checked,2
+,2,MC,',What city has the highest life expectancy? ,,,HongKong,Checked,0
+,2,MC,',What city has the highest life expectancy? ,,,New York,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Shanghai,UnChecked,1
+,2,MC,',What city has the highest life expectancy? ,,,Singapore,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,English,UnChecked,1
+,3,MC,',Which language has the more native speakers? ,,,Spanish,Checked,0
+,3,MC,',Which language has the more native speakers? ,,,French,UnChecked,1
+,3,MC,',Which language has the more native speakers? ,,,Russian,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1946,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1923,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1886,UnChecked,2
+,4,MC,',What year was the United Nations established? ,,,1945,Checked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Amazon,Checked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Ford,UnChecked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,Uber,UnChecked,1
+,5,MC,',What company was originally called "Cadabra"? ,,,FedEx,UnChecked,0
+,6,T/F,',An octopus have 3 hearts.,,,True,Checked,2
+,6,T/F,',An octopus have 3 hearts.,,,False,UnChecked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,True,Checked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,False,UnChecked,2
+,8,M-S,',Which countries have national language of English,,,United States of America,UnChecked,2
+,8,M-S,',Which countries have national language of English,,,Belgium,Checked,0
+,8,M-S,',Which countries have national language of English,,,Fiji,Checked,0
+,8,M-S,',Which countries have national language of English,,,Russia,UnChecked,0
+,9,M-S,',Which animals have fur,,,cat,Checked,1
+,9,M-S,',Which animals have fur,,,dog,Checked,1
+,9,M-S,',Which animals have fur,,,mole-rat,UnChecked,0
+,9,M-S,',Which animals have fur,,,kangaroo,Checked,2
+,10,WR,',What is your favorite animal and why? (Write 3 sentences max.),,,123,,1
+,10,WR,',What is your favorite animal and why? (Write 3 sentences max.),,,"I like giraffe becuase they have long necks. Also, many giraffe live in Africa. Finally, they are majestic creatures",,1
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 1,123,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 1,Feline,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 2,123,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 2,Canine,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,123123,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,123,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,123,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Foxes,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Bears,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,Sharks,
+,13,FIB,',Thomas Edison invented the lightbulb in the year _______ .,,,Answer for blank # 1,1231,
+,13,FIB,',Thomas Edison invented the lightbulb in the year _______ .,,,Answer for blank # 1,1886,
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,1,2
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,2,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,1,1
+,14,ORD,',Order the animals from largest to smallest,,,Dog,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Dog,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Flea,4,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Un,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Un,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Anti,2
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Un,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,A. My birthday is January - March.,Checked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,B. My birthday is April - June.,UnChecked,1
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,C. My birthday is July - September.,UnChecked,1
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,D. My birthday is October - December. ,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,A,Checked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,B,UnChecked,1
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,C,UnChecked,1
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,D,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Green,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Red,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Pink,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Purple,UnChecked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,White,Checked,2
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Silver,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Green,Checked,2
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Red,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Pink,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Purple,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,White,Checked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Silver,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Green,Checked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Red,UnChecked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Pink,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Purple,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,White,Checked,2
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Silver,UnChecked,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Spartan,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Data,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Data,2
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Capstone,2
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,2,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,4,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,4,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,5,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,3,2
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,1,2
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,2,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,5,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Green,2
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Maize,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Green,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Maize,2
+,24,MC,',Who is the prime minister of India?,,,Joe Biden,UnChecked,1
+,24,MC,',Who is the prime minister of India?,,,Narendra Modi,Checked,1
+,24,MC,',Who is the prime minister of India?,,,Pushpa Kamal Dahal,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Xi Jinping,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Florida,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Michigan,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Arizona,Checked,2
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Utah,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,The drinking age is lower in Britain,UnChecked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Many immigrants live in either country,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Both countries mainly use English in day-to-day interaction,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Satire is often used in British humor,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Brunch,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Breakfast,Checked,1
+,27,MC,',What do you never eat for dinner?,,,Midnight snack,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Omelet,UnChecked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,True,Checked,2
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,False,UnChecked,0
+User 9,,,,,,,,,
+,1,T/F,',Is Michigan State University located in Detroit?,,,True,UnChecked,0
+,1,T/F,',Is Michigan State University located in Detroit?,,,False,Checked,1
+,2,MC,',What city has the highest life expectancy? ,,,HongKong,Checked,0
+,2,MC,',What city has the highest life expectancy? ,,,New York,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Shanghai,UnChecked,0
+,2,MC,',What city has the highest life expectancy? ,,,Singapore,UnChecked,1
+,3,MC,',Which language has the more native speakers? ,,,English,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Spanish,Checked,1
+,3,MC,',Which language has the more native speakers? ,,,French,UnChecked,0
+,3,MC,',Which language has the more native speakers? ,,,Russian,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1946,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1923,UnChecked,1
+,4,MC,',What year was the United Nations established? ,,,1886,UnChecked,0
+,4,MC,',What year was the United Nations established? ,,,1945,Checked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Amazon,Checked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Ford,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,Uber,UnChecked,0
+,5,MC,',What company was originally called "Cadabra"? ,,,FedEx,UnChecked,1
+,6,T/F,',An octopus have 3 hearts.,,,True,Checked,1
+,6,T/F,',An octopus have 3 hearts.,,,False,UnChecked,0
+,7,T/F,',Igneous rocks are produced by volcanoes,,,True,Checked,1
+,7,T/F,',Igneous rocks are produced by volcanoes,,,False,UnChecked,0
+,8,M-S,',Which countries have national language of English,,,United States of America,UnChecked,1
+,8,M-S,',Which countries have national language of English,,,Belgium,Checked,0
+,8,M-S,',Which countries have national language of English,,,Fiji,Checked,0
+,8,M-S,',Which countries have national language of English,,,Russia,UnChecked,0
+,9,M-S,',Which animals have fur,,,cat,Checked,1
+,9,M-S,',Which animals have fur,,,dog,Checked,1
+,9,M-S,',Which animals have fur,,,mole-rat,UnChecked,0
+,9,M-S,',Which animals have fur,,,kangaroo,Checked,1
+,10,WR,',What is your favorite animal and why? (Write 3 sentences max.),,,I like moose because they are a unique animal and are very big.,,1
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 1,cat,
+,11,SA,',The scientific name of the common house cat is ______ The scientific name of a dog is ______,,,Answer for blank # 2,canine,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,mosquito,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,lion,
+,12,MSA,',What three animals have caused the most deaths in the world (every year). ,,,Answers,shark,
+,13,FIB,',Thomas Edison invented the lightbulb in the year _______ .,,,Answer for blank # 1,1800,
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,1,1
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Elephant,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,2,1
+,14,ORD,',Order the animals from largest to smallest,,,Lion,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Lion,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Dog,3,1
+,14,ORD,',Order the animals from largest to smallest,,,Dog,4,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,1,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,2,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,3,0
+,14,ORD,',Order the animals from largest to smallest,,,Flea,4,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Social,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Im,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Possible,Un,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Anti,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Happy,Un,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Anti,1
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Im,0
+,15,MAT,',Match the prefix to the suffix such that it forms a word,,,Bacterial,Un,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,A. My birthday is January - March.,Checked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,B. My birthday is April - June.,UnChecked,1
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,C. My birthday is July - September.,UnChecked,0
+,16,MC,',This a sample question. If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D.,,,D. My birthday is October - December. ,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,A,Checked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,B,UnChecked,1
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,C,UnChecked,0
+,17,MC,',If your birthday is January - March: choose A. If your birthday is April - June: choose B. If your birthday is July - September: choose C. If your birthday is October - December: choose D. (MC - random),,,D,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Green,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Red,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Pink,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Purple,UnChecked,0
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,White,Checked,1
+,18,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with A - G, please answer this question incorrectly for testing purposes). (Multi Select - all or nothing)",,,Silver,UnChecked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Green,Checked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Red,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Pink,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Purple,UnChecked,1
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,White,Checked,0
+,19,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with H - M, please answer this question incorrectly for testing purposes). (Multi Select - points for right, random)",,,Silver,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Green,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Red,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Pink,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Purple,UnChecked,0
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,White,Checked,1
+,20,M-S,',"What are MSU's colors? (select all that apply) (If your first name starts with N - Z, please answer this question incorrectly for testing purposes). (Multi Select - right - wrong)",,,Silver,UnChecked,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Data,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,S,Capstone,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Spartan,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,D,Capstone,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Spartan,1
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Data,0
+,21,MAT,',"Match the word to its first letter. If your first name starts with E - L, please answer incorrectly for testing purposes. (Matching - all or nothing) ",,,C,Capstone,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,2,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Green,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Pink,5,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,4,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Yellow,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,1,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,3,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Blue,5,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,1,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,2,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,3,1
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,4,0
+,22,ORD,',"Rank the colors by how much you like them, where 1 is the best / most liked, and 5 is the worst / least liked. ",,,Red,5,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Green,1
+,23,MAT,',What are the colors of MSU and Michigan?,,,White,Maize,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Green,0
+,23,MAT,',What are the colors of MSU and Michigan?,,,Blue,Maize,1
+,24,MC,',Who is the prime minister of India?,,,Joe Biden,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Narendra Modi,Checked,0
+,24,MC,',Who is the prime minister of India?,,,Pushpa Kamal Dahal,UnChecked,0
+,24,MC,',Who is the prime minister of India?,,,Xi Jinping,UnChecked,1
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Florida,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Michigan,UnChecked,0
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Arizona,Checked,1
+,25,MC,',"Which US state, outside of the tropics, does not observe daylight savings time?",,,Utah,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,The drinking age is lower in Britain,UnChecked,0
+,26,M-S,',How are America and Britain similar to each other?,,,Many immigrants live in either country,Checked,0
+,26,M-S,',How are America and Britain similar to each other?,,,Both countries mainly use English in day-to-day interaction,Checked,1
+,26,M-S,',How are America and Britain similar to each other?,,,Satire is often used in British humor,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Brunch,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Breakfast,Checked,1
+,27,MC,',What do you never eat for dinner?,,,Midnight snack,UnChecked,0
+,27,MC,',What do you never eat for dinner?,,,Omelet,UnChecked,0
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,True,Checked,1
+,28,T/F,',"The music artist, Foxes, appeared in the song called Clarity.",,,False,UnChecked,0

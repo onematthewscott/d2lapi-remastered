@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "d2lapi",
+			"path": "."
+		},
+		{
+			"name": "to_parse",
+			"path": "../../to_parse"
+		}
+	],
+	"settings": {}
+}
